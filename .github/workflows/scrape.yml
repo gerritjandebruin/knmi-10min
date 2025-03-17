@@ -62,37 +62,25 @@ jobs:
             }
             return result;
           }
+
           function convertToISO(timestamp) {
-            // Remove "Waarnemingen" and "uur" from the string
             const cleanedTimestamp = timestamp.replace("Waarnemingen ", "").replace(" uur", "");
-
-            // Define a mapping for Dutch month names to month numbers
             const monthMapping = {
-                "januari": "01",
-                "februari": "02",
-                "maart": "03",
-                "april": "04",
-                "mei": "05",
-                "juni": "06",
-                "juli": "07",
-                "augustus": "08",
-                "september": "09",
-                "oktober": "10",
-                "november": "11",
-                "december": "12"
+              "januari": "01", "februari": "02", "maart": "03", "april": "04",
+              "mei": "05", "juni": "06", "juli": "07", "augustus": "08",
+              "september": "09", "oktober": "10", "november": "11", "december": "12"
             };
-
-            // Extract the date and time parts
             const [day, monthName, year, time] = cleanedTimestamp.split(" ");
             const month = monthMapping[monthName];
-
-            // Create a Date object
             const date = new Date(`${year}-${month}-${day}T${time}:00`);
-
-            // Convert to ISO string
             return date.toISOString();
-        }
-          const timestamp = convertToISO(document.querySelector("#weather > div.columns.filled-main-content > div:nth-child(4) > div > div > h2").textContent.trim());
+          }
+
+          const timestampElement = document.querySelector("#weather > div.columns.filled-main-content > div:nth-child(4) > div > div > h2");
+          if (!timestampElement) {
+            throw new Error("Timestamp element not found");
+          }
+          const timestamp = convertToISO(timestampElement.textContent.trim());
           return tableToObjects(document.querySelectorAll("table")[0], timestamp);
         }
         ' > knmi-waarnemingen.json
