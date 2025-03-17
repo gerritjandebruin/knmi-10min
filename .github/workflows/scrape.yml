@@ -76,10 +76,9 @@ jobs:
             return date.toISOString();
           }
 
-          console.log(document);
           const timestampElement = document.querySelector("#weather > div.columns.filled-main-content > div:nth-child(4) > div > div > h2");
           if (!timestampElement) {
-            throw new Error("Timestamp element not found");
+            throw new Error("Timestamp element not found in", document);
           }
           const timestamp = convertToISO(timestampElement.textContent.trim());
           return tableToObjects(document.querySelectorAll("table")[0], timestamp);
