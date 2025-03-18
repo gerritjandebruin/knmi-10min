@@ -77,7 +77,7 @@ jobs:
           }
 
           const timestampElement = document.querySelector("#weather > div.columns.filled-main-content > div:nth-child(4) > div > div > h2");
-          if timestampElement {
+          if (timestampElement) {
             const timestamp = convertToISO(timestampElement.textContent.trim());
             return tableToObjects(document.querySelectorAll("table")[0], timestamp);
           }
