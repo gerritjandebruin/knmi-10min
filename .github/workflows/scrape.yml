@@ -77,11 +77,10 @@ jobs:
           }
 
           const timestampElement = document.querySelector("#weather > div.columns.filled-main-content > div:nth-child(4) > div > div > h2");
-          if (!timestampElement) {
-            throw new Error("Timestamp element not found in", document);
+          if timestampElement {
+            const timestamp = convertToISO(timestampElement.textContent.trim());
+            return tableToObjects(document.querySelectorAll("table")[0], timestamp);
           }
-          const timestamp = convertToISO(timestampElement.textContent.trim());
-          return tableToObjects(document.querySelectorAll("table")[0], timestamp);
         }
         ' > knmi-waarnemingen.json
     - name: Commit and push
