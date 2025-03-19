@@ -211,14 +211,14 @@
         "timestamp": "2025-03-19T15:40:00.000Z",
         "Station": "De Bilt",
         "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Temp(\u00b0C)": "16.7",
         "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "RV(%)": "37",
+        "Wind(bft)": "Z 3",
+        "Wind(m/s)": "3.73",
+        "Windstoot(km/uur)": "25",
+        "Zicht(m)": "35000",
+        "Druk(hPa)": "1022.8"
     },
     {
         "timestamp": "2025-03-19T15:40:00.000Z",
