@@ -75,7 +75,8 @@ jobs:
             if (!day || !month || !year || !time) {
               throw new Error(`Invalid timestamp format: ${timestamp}`);
             }
-            const datestring = `${year}-${month}-${day}T${time}:00`;
+            const paddedDay = day.padStart(2, "0"); // Ensure day is zero-padded
+            const datestring = `${year}-${month}-${paddedDay}T${time}:00`;
             const date = new Date(datestring);
             if (isNaN(date.getTime())) {
               throw new Error(`Invalid date constructed found: ${datestring}`);
