@@ -72,7 +72,13 @@ jobs:
             };
             const [day, monthName, year, time] = cleanedTimestamp.split(" ");
             const month = monthMapping[monthName];
+            if (!day || !month || !year || !time) {
+              throw new Error(`Invalid timestamp format: ${timestamp}`);
+            }
             const date = new Date(`${year}-${month}-${day}T${time}:00`);
+            if (isNaN(date.getTime())) {
+              throw new Error(`Invalid date constructed from timestamp: ${timestamp}`);
+            }
             console.log(date);
             return date.toISOString();
           }
