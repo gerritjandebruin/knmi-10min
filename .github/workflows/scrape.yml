@@ -73,14 +73,17 @@ jobs:
             const [day, monthName, year, time] = cleanedTimestamp.split(" ");
             const month = monthMapping[monthName];
             const date = new Date(`${year}-${month}-${day}T${time}:00`);
+            console.log(date);
             return date.toISOString();
           }
 
+          console.log(document);
           const timestampElement = document.querySelector("#weather > div.columns.filled-main-content > div:nth-child(4) > div > div > h2");
-          if (timestampElement) {
-            const timestamp = convertToISO(timestampElement.textContent.trim());
-            return tableToObjects(document.querySelectorAll("table")[0], timestamp);
+          if (!timestampElement) {
+            throw new Error("Timestamp element not found");
           }
+          const timestamp = convertToISO(timestampElement.textContent.trim());
+          return tableToObjects(document.querySelectorAll("table")[0], timestamp);
         }
         ' > knmi-waarnemingen.json
     - name: Commit and push
