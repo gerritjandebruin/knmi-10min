@@ -76,7 +76,7 @@ jobs:
               throw new Error(`Invalid timestamp format: ${timestamp}`);
             }
             const datestring = `${year}-${month}-${day}T${time}:00`;
-            const date = new Date($datestring);
+            const date = new Date(datestring);
             if (isNaN(date.getTime())) {
               throw new Error(`Invalid date constructed found: ${datestring}`);
             }
