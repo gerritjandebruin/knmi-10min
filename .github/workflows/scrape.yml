@@ -75,9 +75,10 @@ jobs:
             if (!day || !month || !year || !time) {
               throw new Error(`Invalid timestamp format: ${timestamp}`);
             }
-            const date = new Date(`${year}-${month}-${day}T${time}:00`);
+            const datestring = `${year}-${month}-${day}T${time}:00`;
+            const date = new Date($datestring);
             if (isNaN(date.getTime())) {
-              throw new Error(`Invalid date constructed found: ${date}`);
+              throw new Error(`Invalid date constructed found: ${datestring}`);
             }
             console.log(date);
             return date.toISOString();
