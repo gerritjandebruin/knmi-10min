@@ -278,26 +278,26 @@
     {
         "timestamp": "2025-04-08T06:30:00.000Z",
         "Station": "Schiphol",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Weer": "onbewolkt",
+        "Temp(\u00b0C)": "3.8",
+        "RV(%)": "84",
+        "Wind(bft)": "ONO 1",
+        "Wind(m/s)": "1.48",
+        "Windstoot(km/uur)": "8",
+        "Zicht(m)": "45000",
+        "Druk(hPa)": "1028.1"
     },
     {
         "timestamp": "2025-04-08T06:30:00.000Z",
         "Station": "Voorschoten",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Weer": "onbewolkt",
+        "Temp(\u00b0C)": "4.8",
+        "RV(%)": "76",
+        "Wind(bft)": "O 2",
+        "Wind(m/s)": "3.3",
+        "Windstoot(km/uur)": "18",
+        "Zicht(m)": "45000",
+        "Druk(hPa)": "1027.8"
     },
     {
         "timestamp": "2025-04-08T06:30:00.000Z",
