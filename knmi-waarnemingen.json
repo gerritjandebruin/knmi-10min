@@ -50,14 +50,14 @@
     {
         "timestamp": "2025-04-17T12:30:00.000Z",
         "Station": "Leeuwarden",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Weer": "droog na regen",
+        "Temp(\u00b0C)": "10.8",
+        "RV(%)": "81",
+        "Wind(bft)": "WNW 3",
+        "Wind(m/s)": "4.24",
+        "Windstoot(km/uur)": "21",
+        "Zicht(m)": "28000",
+        "Druk(hPa)": "1012.6"
     },
     {
         "timestamp": "2025-04-17T12:30:00.000Z",
