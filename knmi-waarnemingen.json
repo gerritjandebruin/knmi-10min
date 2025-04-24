@@ -159,13 +159,13 @@
         "timestamp": "2025-04-24T22:20:00.000Z",
         "Station": "Herwijnen",
         "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
+        "Temp(\u00b0C)": "10.1",
+        "RV(%)": "90",
+        "Wind(bft)": "N 3",
+        "Wind(m/s)": "3.54",
+        "Windstoot(km/uur)": "20",
         "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Druk(hPa)": "1020.6"
     },
     {
         "timestamp": "2025-04-24T22:20:00.000Z",
