@@ -171,12 +171,12 @@
         "timestamp": "2025-05-06T11:20:00.000Z",
         "Station": "Marknesse",
         "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Temp(\u00b0C)": "10.9",
+        "RV(%)": "77",
+        "Wind(bft)": "N 3",
+        "Wind(m/s)": "4.14",
+        "Windstoot(km/uur)": "22",
+        "Zicht(m)": "50000",
         "Druk(hPa)": ""
     },
     {
