@@ -351,13 +351,13 @@
         "timestamp": "2025-06-16T11:30:00.000Z",
         "Station": "Westdorpe",
         "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
+        "Temp(\u00b0C)": "22.9",
+        "RV(%)": "55",
+        "Wind(bft)": "NW 3",
+        "Wind(m/s)": "3.81",
+        "Windstoot(km/uur)": "22",
         "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Druk(hPa)": "1028.1"
     },
     {
         "timestamp": "2025-06-16T11:30:00.000Z",
