@@ -257,9 +257,9 @@
         "Weer": "",
         "Temp(\u00b0C)": "",
         "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
+        "Wind(bft)": "ZO 3",
+        "Wind(m/s)": "3.98",
+        "Windstoot(km/uur)": "23",
         "Zicht(m)": "",
         "Druk(hPa)": ""
     },
