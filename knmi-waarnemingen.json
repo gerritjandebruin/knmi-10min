@@ -243,12 +243,12 @@
         "timestamp": "2025-07-04T11:30:00.000Z",
         "Station": "Berkhout",
         "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Temp(\u00b0C)": "21.2",
+        "RV(%)": "61",
+        "Wind(bft)": "WZW 4",
+        "Wind(m/s)": "7.23",
+        "Windstoot(km/uur)": "36",
+        "Zicht(m)": "35000",
         "Druk(hPa)": ""
     },
     {
