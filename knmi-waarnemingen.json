@@ -170,13 +170,13 @@
     {
         "timestamp": "2025-07-06T22:30:00.000Z",
         "Station": "Marknesse",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "zware regen",
+        "Temp(\u00b0C)": "15.9",
+        "RV(%)": "94",
+        "Wind(bft)": "OZO 1",
+        "Wind(m/s)": "0.61",
+        "Windstoot(km/uur)": "11",
+        "Zicht(m)": "2900",
         "Druk(hPa)": ""
     },
     {
