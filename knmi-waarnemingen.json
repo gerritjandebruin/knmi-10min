@@ -170,13 +170,13 @@
     {
         "timestamp": "2025-07-07T17:30:00.000Z",
         "Station": "Marknesse",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "droog na regen",
+        "Temp(\u00b0C)": "17",
+        "RV(%)": "70",
+        "Wind(bft)": "NNW 5",
+        "Wind(m/s)": "8.22",
+        "Windstoot(km/uur)": "41",
+        "Zicht(m)": "50000",
         "Druk(hPa)": ""
     },
     {
