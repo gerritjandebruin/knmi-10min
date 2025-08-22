@@ -62,13 +62,13 @@
     {
         "timestamp": "2025-08-22T11:20:00.000Z",
         "Station": "Stavoren",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "geheel bewolkt",
+        "Temp(\u00b0C)": "16.3",
+        "RV(%)": "63",
+        "Wind(bft)": "NW 4",
+        "Wind(m/s)": "6.08",
+        "Windstoot(km/uur)": "29",
+        "Zicht(m)": "40000",
         "Druk(hPa)": ""
     },
     {
@@ -410,13 +410,13 @@
     {
         "timestamp": "2025-08-22T11:20:00.000Z",
         "Station": "Ell",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "geheel bewolkt",
+        "Temp(\u00b0C)": "17.1",
+        "RV(%)": "61",
+        "Wind(bft)": "NW 2",
+        "Wind(m/s)": "2.08",
+        "Windstoot(km/uur)": "15",
+        "Zicht(m)": "50000",
         "Druk(hPa)": ""
     },
     {
