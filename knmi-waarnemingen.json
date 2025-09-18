@@ -410,13 +410,13 @@
     {
         "timestamp": "2025-09-18T18:30:00.000Z",
         "Station": "Ell",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "geheel bewolkt",
+        "Temp(\u00b0C)": "19.6",
+        "RV(%)": "75",
+        "Wind(bft)": "WZW 3",
+        "Wind(m/s)": "4.82",
+        "Windstoot(km/uur)": "26",
+        "Zicht(m)": "50000",
         "Druk(hPa)": ""
     },
     {
