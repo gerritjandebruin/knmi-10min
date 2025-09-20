@@ -410,13 +410,13 @@
     {
         "timestamp": "2025-09-20T18:20:00.000Z",
         "Station": "Ell",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "droog na regen",
+        "Temp(\u00b0C)": "22.8",
+        "RV(%)": "70",
+        "Wind(bft)": "Z 2",
+        "Wind(m/s)": "3.36",
+        "Windstoot(km/uur)": "17",
+        "Zicht(m)": "50000",
         "Druk(hPa)": ""
     },
     {
