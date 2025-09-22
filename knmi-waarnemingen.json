@@ -207,13 +207,13 @@
         "timestamp": "2025-09-22T11:30:00.000Z",
         "Station": "Cabauw",
         "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Temp(\u00b0C)": "14.1",
+        "RV(%)": "63",
+        "Wind(bft)": "NNO 3",
+        "Wind(m/s)": "5.15",
+        "Windstoot(km/uur)": "35",
+        "Zicht(m)": "28000",
+        "Druk(hPa)": "1024.0"
     },
     {
         "timestamp": "2025-09-22T11:30:00.000Z",
