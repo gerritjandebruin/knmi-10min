@@ -351,13 +351,13 @@
         "timestamp": "2025-09-25T07:20:00.000Z",
         "Station": "Westdorpe",
         "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Temp(\u00b0C)": "8.9",
+        "RV(%)": "80",
+        "Wind(bft)": "NO 3",
+        "Wind(m/s)": "4.45",
+        "Windstoot(km/uur)": "23",
+        "Zicht(m)": "50000",
+        "Druk(hPa)": "1022.7"
     },
     {
         "timestamp": "2025-09-25T07:20:00.000Z",
@@ -410,13 +410,13 @@
     {
         "timestamp": "2025-09-25T07:20:00.000Z",
         "Station": "Ell",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "geheel bewolkt",
+        "Temp(\u00b0C)": "10",
+        "RV(%)": "69",
+        "Wind(bft)": "NO 3",
+        "Wind(m/s)": "4.45",
+        "Windstoot(km/uur)": "23",
+        "Zicht(m)": "50000",
         "Druk(hPa)": ""
     },
     {
