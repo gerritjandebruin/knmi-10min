@@ -338,14 +338,14 @@
     {
         "timestamp": "2025-10-16T12:30:00.000Z",
         "Station": "Vlissingen",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
+        "Weer": "geheel bewolkt",
+        "Temp(\u00b0C)": "14.2",
+        "RV(%)": "85",
+        "Wind(bft)": "ZW 1",
+        "Wind(m/s)": "0.99",
+        "Windstoot(km/uur)": "5",
         "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Druk(hPa)": "1026.9"
     },
     {
         "timestamp": "2025-10-16T12:30:00.000Z",
