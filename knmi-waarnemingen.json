@@ -67,14 +67,14 @@
     {
         "timestamp": "2025-10-30T15:30:00.000Z",
         "Station": "Stavoren",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Weer": "geheel bewolkt",
+        "Temp(\u00b0C)": "11.8",
         "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "RV(%)": "78",
+        "Wind(bft)": "WZW 4",
+        "Wind(m/s)": "6.33",
+        "Windstoot(km/uur)": "29",
+        "Zicht(m)": "35000",
         "Druk(hPa)": ""
     },
     {
