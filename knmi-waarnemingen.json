@@ -236,15 +236,15 @@
     {
         "timestamp": "2025-12-06T16:20:00.000Z",
         "Station": "Den Helder",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Weer": "droog na motregen",
+        "Temp(\u00b0C)": "9.6",
+        "Chill(\u00b0C)": "6.0",
+        "RV(%)": "92",
+        "Wind(bft)": "ZZW 5",
+        "Wind(m/s)": "8.62",
+        "Windstoot(km/uur)": "44",
+        "Zicht(m)": "9000",
+        "Druk(hPa)": "997.5"
     },
     {
         "timestamp": "2025-12-06T16:20:00.000Z",
@@ -253,9 +253,9 @@
         "Temp(\u00b0C)": "",
         "Chill(\u00b0C)": "",
         "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
+        "Wind(bft)": "ZZW 5",
+        "Wind(m/s)": "10.14",
+        "Windstoot(km/uur)": "44",
         "Zicht(m)": "",
         "Druk(hPa)": ""
     },
