@@ -444,14 +444,14 @@
     {
         "timestamp": "2026-01-06T22:30:00.000Z",
         "Station": "Ell",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "Weer": "onbewolkt",
+        "Temp(\u00b0C)": "-5.1",
+        "Chill(\u00b0C)": "-10.3",
+        "RV(%)": "91",
+        "Wind(bft)": "Z 3",
+        "Wind(m/s)": "3.67",
+        "Windstoot(km/uur)": "17",
+        "Zicht(m)": "17000",
         "Druk(hPa)": ""
     },
     {
