@@ -29,14 +29,14 @@
         "timestamp": "2026-09-01T13:20:00.000Z",
         "Station": "Terschelling",
         "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Temp(\u00b0C)": "18.9",
         "Hittekracht(WBGT)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "RV(%)": "66",
+        "Wind(bft)": "W 4",
+        "Wind(m/s)": "6.82",
+        "Windstoot(km/uur)": "39",
+        "Zicht(m)": "30000",
+        "Druk(hPa)": "1018.4"
     },
     {
         "timestamp": "2026-09-01T13:20:00.000Z",
