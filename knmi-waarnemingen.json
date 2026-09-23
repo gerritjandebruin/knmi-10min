@@ -145,15 +145,15 @@
     {
         "timestamp": "2026-09-23T13:30:00.000Z",
         "Station": "Deelen",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Weer": "licht bewolkt",
+        "Temp(\u00b0C)": "19.7",
         "Hittekracht(WBGT)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "RV(%)": "52",
+        "Wind(bft)": "ZZW 3",
+        "Wind(m/s)": "4.06",
+        "Windstoot(km/uur)": "24",
+        "Zicht(m)": "35000",
+        "Druk(hPa)": "1023.8"
     },
     {
         "timestamp": "2026-09-23T13:30:00.000Z",
