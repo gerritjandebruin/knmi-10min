@@ -1,6 +1,6 @@
 [
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Lauwersoog",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -13,7 +13,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Nieuw Beerta",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -26,7 +26,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Terschelling",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -39,7 +39,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Vlieland",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -52,11 +52,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Leeuwarden",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "3 (19.3)",
+        "Hittekracht(WBGT)": "3 (19.1)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -65,7 +65,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Stavoren",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -78,7 +78,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Houtribdijk",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -91,7 +91,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Eelde",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -104,7 +104,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Hoogeveen",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -117,7 +117,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Heino",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -130,11 +130,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Twenthe",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "4 (20.5)",
+        "Hittekracht(WBGT)": "3 (18.7)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -143,11 +143,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Deelen",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "4 (21.8)",
+        "Hittekracht(WBGT)": "4 (21)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -156,7 +156,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Hupsel",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -169,7 +169,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Herwijnen",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -182,7 +182,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Marknesse",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -195,21 +195,8 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Lelystad",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "4 (20.8)",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
-    },
-    {
-        "timestamp": "2026-10-06T16:20:00.000Z",
-        "Station": "De Bilt",
         "Weer": "",
         "Temp(\u00b0C)": "",
         "Hittekracht(WBGT)": "4 (20.6)",
@@ -221,7 +208,20 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
+        "Station": "De Bilt",
+        "Weer": "",
+        "Temp(\u00b0C)": "",
+        "Hittekracht(WBGT)": "4 (20.9)",
+        "RV(%)": "",
+        "Wind(bft)": "",
+        "Wind(m/s)": "",
+        "Windstoot(km/uur)": "",
+        "Zicht(m)": "",
+        "Druk(hPa)": ""
+    },
+    {
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Cabauw",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -234,11 +234,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Den Helder",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "3 (19.2)",
+        "Hittekracht(WBGT)": "3 (19.3)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -247,7 +247,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Texelhors",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -260,7 +260,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Berkhout",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -273,7 +273,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "IJmuiden",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -286,7 +286,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Wijk aan Zee",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -299,47 +299,8 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Schiphol",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "3 (19.3)",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
-    },
-    {
-        "timestamp": "2026-10-06T16:20:00.000Z",
-        "Station": "Voorschoten",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "3 (19.6)",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
-    },
-    {
-        "timestamp": "2026-10-06T16:20:00.000Z",
-        "Station": "Rotterdam",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "3 (20)",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
-    },
-    {
-        "timestamp": "2026-10-06T16:20:00.000Z",
-        "Station": "Hoek van Holland",
         "Weer": "",
         "Temp(\u00b0C)": "",
         "Hittekracht(WBGT)": "3 (19.2)",
@@ -351,11 +312,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
-        "Station": "Wilhelminadorp",
+        "timestamp": "2026-10-06T16:30:00.000Z",
+        "Station": "Voorschoten",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "2 (17.9)",
+        "Hittekracht(WBGT)": "3 (19.5)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -364,7 +325,46 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
+        "Station": "Rotterdam",
+        "Weer": "",
+        "Temp(\u00b0C)": "",
+        "Hittekracht(WBGT)": "3 (19.7)",
+        "RV(%)": "",
+        "Wind(bft)": "",
+        "Wind(m/s)": "",
+        "Windstoot(km/uur)": "",
+        "Zicht(m)": "",
+        "Druk(hPa)": ""
+    },
+    {
+        "timestamp": "2026-10-06T16:30:00.000Z",
+        "Station": "Hoek van Holland",
+        "Weer": "",
+        "Temp(\u00b0C)": "",
+        "Hittekracht(WBGT)": "3 (19.4)",
+        "RV(%)": "",
+        "Wind(bft)": "",
+        "Wind(m/s)": "",
+        "Windstoot(km/uur)": "",
+        "Zicht(m)": "",
+        "Druk(hPa)": ""
+    },
+    {
+        "timestamp": "2026-10-06T16:30:00.000Z",
+        "Station": "Wilhelminadorp",
+        "Weer": "",
+        "Temp(\u00b0C)": "",
+        "Hittekracht(WBGT)": "3 (18.2)",
+        "RV(%)": "",
+        "Wind(bft)": "",
+        "Wind(m/s)": "",
+        "Windstoot(km/uur)": "",
+        "Zicht(m)": "",
+        "Druk(hPa)": ""
+    },
+    {
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Vlissingen",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -377,11 +377,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Westdorpe",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "4 (20.4)",
+        "Hittekracht(WBGT)": "4 (20.2)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -390,7 +390,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Woensdrecht",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -403,11 +403,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Gilze Rijen",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "5 (23.7)",
+        "Hittekracht(WBGT)": "5 (23.5)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -416,11 +416,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Volkel",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "4 (21.8)",
+        "Hittekracht(WBGT)": "5 (22.9)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -429,11 +429,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Eindhoven",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "6 (24.2)",
+        "Hittekracht(WBGT)": "5 (23.3)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
@@ -442,7 +442,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Ell",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -455,7 +455,7 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Horst",
         "Weer": "",
         "Temp(\u00b0C)": "",
@@ -468,11 +468,11 @@
         "Druk(hPa)": ""
     },
     {
-        "timestamp": "2026-10-06T16:20:00.000Z",
+        "timestamp": "2026-10-06T16:30:00.000Z",
         "Station": "Maastricht-Aachen Airport",
         "Weer": "",
         "Temp(\u00b0C)": "",
-        "Hittekracht(WBGT)": "4 (20.8)",
+        "Hittekracht(WBGT)": "4 (20.2)",
         "RV(%)": "",
         "Wind(bft)": "",
         "Wind(m/s)": "",
