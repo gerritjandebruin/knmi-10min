@@ -41,15 +41,15 @@
     {
         "timestamp": "2026-10-14T00:20:00.000Z",
         "Station": "Vlieland",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Weer": "licht bewolkt",
+        "Temp(\u00b0C)": "15.6",
         "Hittekracht(WBGT)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "RV(%)": "70",
+        "Wind(bft)": "WNW 6",
+        "Wind(m/s)": "13.65",
+        "Windstoot(km/uur)": "59",
+        "Zicht(m)": "13000",
+        "Druk(hPa)": "1022.7"
     },
     {
         "timestamp": "2026-10-14T00:20:00.000Z",
