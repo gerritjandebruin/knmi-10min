@@ -478,15 +478,15 @@
     {
         "timestamp": "2026-10-25T09:40:00.000Z",
         "Station": "Ell",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Weer": "onbewolkt",
+        "Temp(\u00b0C)": "11.6",
         "Hittekracht(WBGT)": "",
         "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "RV(%)": "74",
+        "Wind(bft)": "WZW 4",
+        "Wind(m/s)": "7.01",
+        "Windstoot(km/uur)": "40",
+        "Zicht(m)": "33000",
         "Druk(hPa)": ""
     },
     {
