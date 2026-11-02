@@ -198,15 +198,15 @@
     {
         "timestamp": "2026-11-02T03:10:00.000Z",
         "Station": "Marknesse",
-        "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Weer": "motregen en regen",
+        "Temp(\u00b0C)": "10.2",
         "Hittekracht(WBGT)": "",
         "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
-        "Zicht(m)": "",
+        "RV(%)": "97",
+        "Wind(bft)": "WNW 2",
+        "Wind(m/s)": "2.53",
+        "Windstoot(km/uur)": "13",
+        "Zicht(m)": "2500",
         "Druk(hPa)": ""
     },
     {
