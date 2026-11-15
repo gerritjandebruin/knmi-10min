@@ -185,15 +185,15 @@
         "timestamp": "2026-11-15T13:10:00.000Z",
         "Station": "Herwijnen",
         "Weer": "",
-        "Temp(\u00b0C)": "",
+        "Temp(\u00b0C)": "6.9",
         "Hittekracht(WBGT)": "",
-        "Chill(\u00b0C)": "",
-        "RV(%)": "",
-        "Wind(bft)": "",
-        "Wind(m/s)": "",
-        "Windstoot(km/uur)": "",
+        "Chill(\u00b0C)": "4.1",
+        "RV(%)": "79",
+        "Wind(bft)": "Z 3",
+        "Wind(m/s)": "4.2",
+        "Windstoot(km/uur)": "27",
         "Zicht(m)": "",
-        "Druk(hPa)": ""
+        "Druk(hPa)": "1004.2"
     },
     {
         "timestamp": "2026-11-15T13:10:00.000Z",
